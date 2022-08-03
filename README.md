@@ -23,7 +23,7 @@
   <img align="center" alt="Alex-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Alex-Prometheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg">
     
-  <img align="right" alt="Alex-Avatar" height="150" style="border-radius:50px;" src="http://i45.servimg.com/u/f45/12/55/28/56/hacker10.gif">
+  <img align="right" alt="Rocha Dev" height="150" style="border-radius:50px;" src="[http://i45.servimg.com/u/f45/12/55/28/56/hacker10.gif](https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif)">
 </div>
  
  ##
