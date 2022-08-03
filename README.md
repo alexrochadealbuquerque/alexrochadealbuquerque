@@ -23,7 +23,7 @@
   <img align="center" alt="Alex-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Alex-Prometheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg">
     
-  <img align="right" alt="Alex-Avatar" height="150" style="border-radius:50px;" src="https://img.freepik.com/premium-vector/software-language-programmer-avatar_24877-769.jpg?w=740">
+  <img align="right" alt="Alex-Avatar" height="150" style="border-radius:50px;" src="http://i45.servimg.com/u/f45/12/55/28/56/hacker10.gif">
 </div>
  
  ##
