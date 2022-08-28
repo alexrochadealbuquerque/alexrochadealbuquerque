@@ -39,7 +39,7 @@
   ### Autor
 ---
 <a href="#">
- <img style="border-radius: 50%;" src="[https://pt.wikihow.com/Ser-um-Nerd](https://www.wikihow.com/images_en/thumb/3/3d/Be-a-Nerd-Step-01.jpg/v4-1200px-Be-a-Nerd-Step-01.jpg)" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://pt.wikihow.com/Ser-um-Nerd" width="100px;" alt=""/>
  <br />
  <sub><b>Alex Rocha</b></sub></a> <a href="#" title="Rocketseat">🚀</a>
  <br />                                                           
