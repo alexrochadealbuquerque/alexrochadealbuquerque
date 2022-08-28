@@ -43,6 +43,8 @@
  <br />
  <sub><b>Alex Rocha</b></sub></a> <a href="#" title="Rocketseat">🚀</a>
 Feito com ❤️ por AlexRocha 👋🏽 Entre em contato! 
+                                                                
+
 [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
  
 </div>
